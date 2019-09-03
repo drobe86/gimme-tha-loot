@@ -1,2 +1,1 @@
-# gimme-tha-loot
-That python good ish - Machine Learning
+# Machine Learning
